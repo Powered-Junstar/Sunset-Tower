@@ -22,7 +22,6 @@ config/icon="res://icon.png"
 [autoload]
 
 global="*res://global.tscn"
-global_script="*res://global_script.gd"
 
 [display]
 
